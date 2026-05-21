@@ -99,6 +99,7 @@ If you encounter any issues, need setup assistance, or want to discuss enterpris
 - **Developer:** Vishwakarthick
 - **GitHub:** [@vishwakarthick1789](https://github.com/vishwakarthick1789)
 - **Issues:** Please open a ticket in the GitHub Issues tab for bug tracking.
+- Always open to cotribute.
 
 ---
 *Architected for speed, built for intelligence.*
